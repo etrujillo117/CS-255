@@ -1,1 +1,4 @@
 # CS-255
+
+
+My team was hired by Liam of DriverPass to develop a web-based application to connect driving instructors with students and other learning materials. Additionally, students were asked to contact and schedule appointments with their instructors, while instructors relied on the service to handle all financial transactions. It was interesting to apply Gantt Charts to help visualize the time frame needed to meet the DriverPass deadline. For a future project, I'd want to continue working on my UML designs to continue improving. The interview stage was vital to develop and understand the user's needs, thus better preparing the project team for the task. Utilizing an agile development approach allows us to address the clients' needs while still in development. When a milestone is completed development-wise, the client can view the progress and make suggestions that best fit the company's views.
